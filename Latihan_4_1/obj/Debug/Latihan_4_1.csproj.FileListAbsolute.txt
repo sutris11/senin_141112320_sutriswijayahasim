@@ -1,0 +1,18 @@
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+D:\Users\john\Desktop\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
